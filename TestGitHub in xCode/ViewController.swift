@@ -11,9 +11,8 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("something")
+print("do something what should fix my code befote last commit")
+        
     }
-
-
 }
 
