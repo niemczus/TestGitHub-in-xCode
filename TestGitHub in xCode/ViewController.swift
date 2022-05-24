@@ -12,6 +12,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 print("change something in main branch")
+print("change something in test branch")
         
     }
 }
